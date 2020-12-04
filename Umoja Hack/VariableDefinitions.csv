@@ -1,0 +1,15 @@
+Loan_ID,A unique ID for this loan
+Loan Category Code,One of 6 possible loan categories
+ActualFirstDisbursementDate,​The date of the first loan disbursement
+ApprovalDate,Date the loan is approved
+FirstInstalmentDate,Date the first installment is due
+MaturityDate,Date the loan reaches maturity
+LoanAmount,Initial amount loaned to customer (values have been scaled and do not reflect dollar amounts)
+BillingFrequency,The loan billing frequency
+LoanInterestrate,Interest rate of the loan (values have been scaled and do not reflect real interest rate)
+NumberOfDependency,Number  of persons under customers care
+OtherLoansBalance,Amount outstanding on other loans held by the customers
+MaritalStatus,Martial Status of customer (married or unmarried)
+Gender,Gender of customer
+BirthDate,Birth month and year of customer
+Target,If the customer has defaulted on their loan repayments. Default means they have not paid in 90 days
